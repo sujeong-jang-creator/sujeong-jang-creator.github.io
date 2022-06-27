@@ -167,7 +167,8 @@ privacy-policy:
 constants:
   greetings: Hello I'm Jcrystal!
   welcome: Welcome
-  sample: 나의 성장을 기록해요
+  sample1: 나의 성장을 기록해요
+  sample: sample
 
 # for cookie consent
 cookie_consent:
