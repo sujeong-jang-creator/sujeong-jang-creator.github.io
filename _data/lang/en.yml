@@ -165,9 +165,9 @@ privacy-policy:
 
 # constants to be replaced for
 constants:
-  greetings: Hello
+  greetings: Hello I'm Jcrystal!
   welcome: Welcome
-  sample: Sample
+  sample: 나의 성장을 기록해요
 
 # for cookie consent
 cookie_consent:
