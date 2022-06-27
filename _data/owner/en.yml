@@ -4,13 +4,13 @@
 # This is your brand name
 brand: "장 수 정"
 
-brand_sub_text: "열정가득 배움전문가"
+brand_sub_text: "a passionate learner"
 name: "Sujeong Jang"
 
 # home page top header texts
 home:
   # you can also use $site_brand, $site_greetings, $site_welcome in line1 and line2 for replacing texts.
-  top_header_line1: "Think with your hands!"
+  top_header_line1: "Keep looking up!"
   # if commented, top header will be a single line
   # top_header_line2: ""
 
