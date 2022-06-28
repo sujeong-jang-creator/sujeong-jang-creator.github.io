@@ -6,11 +6,19 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
 xmlns:xhtml="http://www.w3.org/1999/xhtml"
 xmlns:image="https://www.google.com/schemas/sitemap-image/1.1">
   <url>
-    <loc>http://localhost:4000/posts/2022-06-28-test</loc>
-    <lastmod>2022-06-28T00:00:00+09:00</lastmod>
+    <loc>http://localhost:4000/posts/2022-05-10-meta</loc>
+    <lastmod>2022-05-10T00:00:00+09:00</lastmod>
     <image:image>
-      <image:loc>http://localhost:4000/assets/img/posts/post_pic3.jpg</image:loc>
-      <image:title>TEST</image:title>
+      <image:loc>http://localhost:4000/assets/img/posts/metaverse.PNG</image:loc>
+      <image:title>메타버스 기반의 공간정보융합 SW 전문가 양성과정</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://localhost:4000/posts/2022-05-10-playdata</loc>
+    <lastmod>2021-05-10T00:00:00+09:00</lastmod>
+    <image:image>
+      <image:loc>http://localhost:4000/assets/img/posts/playdata.jpg</image:loc>
+      <image:title>영상 데이터 기반 인공지능 서비스 개발자 과정</image:title>
     </image:image>
   </url>
   <url>

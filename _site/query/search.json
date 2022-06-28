@@ -1,11 +1,18 @@
 [
     {
-    "title"    : "TEST"
-    ,"category" : "auto generated"
-    ,"tags"     : "장수정, sujeong"
-    ,"url"      : "/posts/2022-06-28-test"
-    ,"date"     : "Jun 28, 2022"
-    ,"content"  : "이렇게 쓰면 되는건가"
+    "title"    : "메타버스 기반의 공간정보융합 SW 전문가 양성과정"
+    ,"category" : "활동 및 경험"
+    ,"tags"     : "메타버스 교육"
+    ,"url"      : "/posts/2022-05-10-meta"
+    ,"date"     : "May 10, 2022"
+    ,"content"  : "주최 : 서울특별시 &amp; 한국공간정보산업협동조합 학습내용 : C, Frontend(html, css)"
+  },{
+    "title"    : "영상 데이터 기반 인공지능 서비스 개발자 과정"
+    ,"category" : "활동 및 경험"
+    ,"tags"     : "ai, 인공지능"
+    ,"url"      : "/posts/2022-05-10-playdata"
+    ,"date"     : "May 10, 2021"
+    ,"content"  : "주최 : playdata(encore 교육기관) 학습내용 : Python 기반 웹사이트 제작, DB관리 MachineLearning, DeepLearning"
   },{
     "title"    : "Projects"
     ,"category" : ""

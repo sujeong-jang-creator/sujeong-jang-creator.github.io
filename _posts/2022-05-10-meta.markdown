@@ -1,0 +1,16 @@
+---
+lng_pair: blog1
+title : 메타버스 기반의 공간정보융합 SW 전문가 양성과정
+author: "장수정"
+category: 활동 및 경험
+tags: [메타버스 교육]
+img: ":metaverse.PNG"
+comments_disable: True
+date: 2022-05-10 00:00:00 +0900
+---
+
+주최 : 서울특별시 & 한국공간정보산업협동조합
+    
+학습내용 :  C, Frontend(html, css)
+
+<!-- ![Image](../images/2022-06-28-10-54-10-image.png) -->
