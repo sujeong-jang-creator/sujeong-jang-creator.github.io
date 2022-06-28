@@ -11,4 +11,4 @@ date: 2022-06-28 00:00:00 +0900
 
 # 이렇게 쓰면 되는건가
 
-!(test)[/images/project_back.png]
+![Image](../images/2022-06-28-10-54-10-image.png)
