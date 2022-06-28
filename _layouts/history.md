@@ -1,16 +1,12 @@
 ---
-# Mr. Green Jekyll Theme - v1.1.0 (https://github.com/MrGreensWorkshop/MrGreen-JekyllTheme)
-# Copyright (c) 2022 Mr. Green's Workshop https://www.MrGreensWorkshop.com
-# Licensed under MIT
-
 layout: default
-# The Archives of posts.
+# The history of posts.
 ---
 {%- include multi_lng/get-pages-by-lng.liquid pages = site.posts -%}
 {%- assign postsByYear = lng_pages | sort: 'date' | reverse | group_by_exp:"post", "post.date | date: site.data.lang[lng].date.year" -%}
 <div class="multipurpose-container">
-  <h1>{{ site.data.lang[lng].archives.page_header }}</h1>
-  <div class="archives">
+  <h1>{{ site.data.lang[lng].history.page_header }}</h1>
+  <div class="history">
     {%- for year in postsByYear %}
     <div class="year">
       <h6>{{ year.name }}</h6>

@@ -128,8 +128,8 @@
 {% assign pages = site.html_pages | where_exp: "item", "item.layout == 'post-list'" %}
 {% if pages.size > 0 %} {% assign post_list_page_exist = true %} {% endif %}
 
-{% assign pages = site.html_pages | where_exp: "item", "item.layout == 'archives'" %}
-{% if pages.size > 0 %} {% assign archives_page_exist = true %} {% endif %}
+{% assign pages = site.html_pages | where_exp: "item", "item.layout == 'history'" %}
+{% if pages.size > 0 %} {% assign history_page_exist = true %} {% endif %}
 
 {% assign pages = site.html_pages | where_exp: "item", "item.layout == 'about'" %}
 {% if pages.size > 0 %} {% assign about_page_exist = true %} {% endif %}
@@ -247,8 +247,8 @@
   {% endif %}
 {% endif %}
 
-{% if archives_page_exist %}
-  @import "archives/archives";
+{% if history_page_exist %}
+  @import "history/history";
 {% endif %}
 
 {% if links_page_exist %}

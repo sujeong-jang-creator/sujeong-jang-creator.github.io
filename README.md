@@ -36,7 +36,7 @@ I was going to make my website and thought if I did it as a template, I could sh
   - English (default), Japanese (日本語)
 - Recommended language offer feature
 - Auto Navigation Button adder with icon enable disable options
-- Layouts for `Home`, `About`, `Archives`, `Post-list`, `Links`, `Projects` and more
+- Layouts for `Home`, `About`, `History`, `Post-list`, `Projects` and more
 - Color scheme switching options (Dark light)
 - Auto Contact option adder
 - Auto image referrer (no need to add full path for images. Just add `:` in front of it.)

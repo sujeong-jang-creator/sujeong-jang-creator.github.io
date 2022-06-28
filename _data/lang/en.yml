@@ -133,12 +133,11 @@ home:
   new_posts_title: New Articles
   new_posts_show_more_button: View More ...
 
-# for archives layout
-archives:
-  title: Archive
-  button_name: Archive
-  page_header: Archive
-
+# for history layout
+history:
+  title: History
+  button_name: History
+  page_header: History
 # for about layout
 about:
   title: About
@@ -167,8 +166,8 @@ privacy-policy:
 constants:
   greetings: Hello I'm Jcrystal!
   welcome: Welcome
-  sample1: 나의 성장을 기록해요
-  sample: sample
+  sample1: Sample
+  sample: 나의 성장을 기록해요
 
 # for cookie consent
 cookie_consent:
