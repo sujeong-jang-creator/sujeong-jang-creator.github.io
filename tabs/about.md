@@ -1,9 +1,8 @@
 ---
 layout: about
-
 lng_pair: id_about
-
 img: ":about.jpg"
+# button_name: "버튼이름을 바꾸어요"
 ---
 
 **\#Metaverse  \#AI  \#DB  \#Backend  \#Frontend**
