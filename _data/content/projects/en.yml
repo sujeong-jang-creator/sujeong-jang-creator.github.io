@@ -99,6 +99,38 @@ page_data:
       project_excerpt: "LOL 게임 유저들에게 각 챔피온에 관한 팁을 제공하는 사이트"
       img: ":lol_logo.jpg"
       img_title: "LoL"
-      date: "2021-06-21 ~ 06-24"
+      date: "2021-06-21 ~ 2021-06-24"
       post: |
         <h6>📌 기획배경</h6>
+        - LOL(League of Legend)은 라이엇 게임즈에서 개발 및 서비스 중인 MOBA 장르 게임이다.
+            (MOBA : 플레이어가 하나의 캐릭터를 선택하여 정해진 맵에서 레벨과 스킬을 올리고 아이템을 갖춰 영웅을 강화시켜 상대방 진영을 파괴하는 실시간 공성 게임 장르)
+        - 위 게임은, 어떠한 아이템을 구매하는지, 어떤 스킬을 강화하는지, 어떤 사전능력을 들고 게임하는지가 게임의 승/패를 좌지우지 한다. 그래서 게임 이용자 들은 각각 어떤 것을 선택할지 매 순간 고민에 빠진다.
+        - 우리는, 게임 유저들에게 각 챔피온에 관한 팁들을 제공하는 사이트를 만들어 보기로 하였다.
+
+        <br>
+
+        <h6>📌 구현화면</h6>  
+        <center><img src="..\assets\img\projects\lol_1.jpg"></center>
+        <br>
+        <center><img src="..\assets\img\projects\lol_2.jpg"></center>
+        <br>
+        <center><img src="..\assets\img\projects\lol_3.jpg"></center>
+
+        <br>
+        <h6>📌 사용 기술 stack</h6>
+        Python, Oracle, Html, Flask
+
+        <br>
+        <h6>📌 My role</h6>
+        - diagrams 제작
+        - Github 및 협업환경 설정 및 관리
+        - CSS / html 제작 및 디자인 <br>
+          필요한 image illustration 제작
+        - Flask 코드와 html 연결 및 정리작업
+        - 기능개발
+        - table data 입력
+        - app.py 제작 (Flask)
+
+
+
+

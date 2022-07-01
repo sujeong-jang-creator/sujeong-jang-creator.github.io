@@ -14,7 +14,15 @@ xmlns:image="https://www.google.com/schemas/sitemap-image/1.1">
     </image:image>
   </url>
   <url>
-    <loc>http://localhost:4000/posts/2022-05-10-playdata</loc>
+    <loc>http://localhost:4000/posts/2021-08-23-NIPA</loc>
+    <lastmod>2021-08-23T00:00:00+09:00</lastmod>
+    <image:image>
+      <image:loc>http://localhost:4000/assets/img/posts/nipa.PNG</image:loc>
+      <image:title>데이터 분석과 이미지 처리를 위한 딥러닝 활용</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://localhost:4000/posts/2021-05-10-playdata</loc>
     <lastmod>2021-05-10T00:00:00+09:00</lastmod>
     <image:image>
       <image:loc>http://localhost:4000/assets/img/posts/playdata.jpg</image:loc>
