@@ -8,7 +8,7 @@ layout: default
   <h1>{{ site.data.lang[lng].history.page_header }}</h1>
   <div class="history">
     {%- for year in postsByYear %}
-    <div class="year">
+    <div class="year"> 
       <h6>{{ year.name }}</h6>
       {%- comment %}we can directly filter days. But I wanted to leave in case list by month needs{% endcomment -%}
       {%- assign postsByMonth = year.items | sort: 'date' | reverse | group_by_exp:"post", "post.date | date: '%m'" -%}
@@ -22,7 +22,8 @@ layout: default
         <ul>
         {%- for post in month.items %}
           <li>
-            <span>{{ post.date | date: site.data.lang[lng].date.day }}</span>
+          <!-- history에 일까지 나타내고 싶으면 아래 주석 해제-->
+            <!-- <span>{{ post.date | date: site.data.lang[lng].date.day }}</span> -->
             {%- assign page_title = post.title -%}
             {%- include util/auto-content-post-title-rename.liquid title = page_title -%}
             <a href="{{ post.url | relative_url }}">{{ page_title }}</a>

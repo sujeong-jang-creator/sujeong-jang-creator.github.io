@@ -1,6 +1,6 @@
 ---
 lng_pair: blog1
-title : 메타버스 기반의 공간정보융합 SW 전문가 양성과정
+title : 교육) 메타버스 기반의 공간정보융합 SW 전문가 양성과정
 author: "장수정"
 category: 활동 및 경험
 tags: [메타버스 교육]

@@ -24,7 +24,7 @@
 {%- endif -%}
 
 {%- if site.data.conf.main.creative_commons.enable or site.data.conf.main.copyright_add_text_to_end -%}
-  {%- assign footer_class = footer_class | append: ' long-copyright' -%}
+  {%- assign footer_class = footer_class | append: ' -copyright' -%}
 {%- endif -%}
 
 {%- capture img_template -%}

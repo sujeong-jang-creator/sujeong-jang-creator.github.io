@@ -30,8 +30,13 @@ page_data:
       project_excerpt: "사진을 촬영/업로드 하면 소고기의 등급을 판정해주는 Service"
       img: ":iguessso_logo.jpg"
       img_title: "iguessso"
-      date: "2021-08 ~ 2021-11"
+      date: "2021-07 ~ 2021-11"
       post: |
+        <h6>📌 Team Info</h6>
+        - 기간 : 2021-07 ~ 2021-11
+
+        <br>
+
         <h6>📌 시현영상</h6>  
         <video controls width="45%">
           <source src="..\assets\img\projects\등급판정.mp4" type="video/mp4">
@@ -101,6 +106,11 @@ page_data:
       img_title: "LoL"
       date: "2021-06-21 ~ 2021-06-24"
       post: |
+        <h6>📌 Team Info</h6>
+        - 기간 : 2021-06-21 ~ 2021-06-24 
+
+        <br>
+
         <h6>📌 기획배경</h6>
         - LOL(League of Legend)은 라이엇 게임즈에서 개발 및 서비스 중인 MOBA 장르 게임이다.
             (MOBA : 플레이어가 하나의 캐릭터를 선택하여 정해진 맵에서 레벨과 스킬을 올리고 아이템을 갖춰 영웅을 강화시켜 상대방 진영을 파괴하는 실시간 공성 게임 장르)
@@ -131,6 +141,12 @@ page_data:
         - table data 입력
         - app.py 제작 (Flask)
 
-
-
+    # 계단 논슬립 설치 기획 & 총괄진행
+    - type: id_school
+      project_name: "광운대학교 캠퍼스 내부 계단 논슬립 설치"
+      project_excerpt: "우천시 계단에서 넘어져서 다치는 사고를 방지하기 위한 계단 논슬립 설치 사업 진행함."
+      img: ":stairs_1.png"
+      img_title: "stairs_1.png"
+      date: "2021-07"
+      post: |
 
