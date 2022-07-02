@@ -147,6 +147,91 @@ page_data:
       project_excerpt: "우천시 계단에서 넘어져서 다치는 사고를 방지하기 위한 계단 논슬립 설치 사업 진행함."
       img: ":stairs_1.png"
       img_title: "stairs_1.png"
+      date: "2017-12"
+      post: |
+        <h6>📌 기획의도</h6>
+        <center><img src="..\assets\img\projects\stairs_1.png"></center>
+        - 기존, 광운대학교 건물들의 계단엔 미끄러지지 않는 장치가 없었음.
+        - 우천시에 계단을 오르내릴때 미끄러져서 다치는 학생들이 꽤 있었음.
+        - 한울관 같은 경우 건물 자체가 모두 대리석이라 특히나 더 위험한데, 유동인원이 매우 많음.
+        - 학생들의 안전을 위해 계단 논슬립을 설치하기로 함.
+
+        <br>
+
+        <h6>📌 방법모색</h6>
+        - 광운대학교에는 총학생회에서 모든 학우들의 복지를 위한 사업을 진행할 수 있는 ‘복지기금’ 이 존재함. 기존 복지기금은, 대부분 간식사업과 같은 이벤트성 사업에 지출해 왔음. 이 기금의 일부를 학생들이 필요로 하는 시설을 제공하기 위해 사용해보고자 함.
+        - 교내의 모든 곳을 할 예산 부족. 제일 필요한 곳이 어디인지 탐색.
+        - 유동학생수가 매우 많고, 건물 자체가 대리석으로 이루어진 **한울관 지하**로 내려가는 계단 설정.
+        - 모든 시간 내내 유동학생수가 제일 많고, 계단이 많은 **비마관 정문, 새빛관 정문 및 후문으로 가는 길목** 계단 설정.
+
+        <br>
+
+        <h6>📌 내부견적</h6>
+        <img src="..\assets\img\projects\stairs_2.png">
+        <img src="..\assets\img\projects\stairs_3.png">
+
+        <br>
+
+        <h6>📌 진행과정</h6>
+        - 학교 시설팀 & 복지처와의 협의를 통해 사업승인
+        - 자연의 색을 띄어 교내의 이미지를 훼손시키지 않으면서도 계단이 잘 보이는, 더그린 학생회의 상징 녹색으로 논슬립 설정.
+
+        <img src="..\assets\img\projects\stairs_4.png">
+        <img src="..\assets\img\projects\stairs_5.png">
+        <img src="..\assets\img\projects\stairs_6.png">
+        <img src="..\assets\img\projects\stairs_7.png">
+
+        <br>
+
+        <h6>📌 결과</h6>
+
+        <img src="..\assets\img\projects\stairs_8.png">
+        <img src="..\assets\img\projects\stairs_9.png">
+        <img src="..\assets\img\projects\stairs_10.png">
+        <img src="..\assets\img\projects\stairs_11.png">
+
+    # 계단 논슬립 설치 기획 & 총괄진행
+    - type: id_school
+      project_name: "광운대학교 흡연구연 분리, 조경사업"
+      project_excerpt: "2017년도 대규모 학생복지사업. 클린캠퍼스 공약 이행."
+      img: ":smoking.png"
+      img_title: "smoking.png"
       date: "2021-07"
       post: |
+        <h6>📌 기획의도</h6>
+        <center><img src="..\assets\img\projects\smoking_1.png"></center>
+        <center><img src="..\assets\img\projects\smoking_2.png"></center>
+        - 기존, 흡연 구역 및 부스 부근의 모든 곳에서 흡연을 하고 꽁초를 버리는 문제로 인해 학생들의 고통이 끊이지 않았음.
+        - 흡연하는 학우들 역시 흡연구역의 안내 미흡과 주변조경환경에 대한 불만이 있었음. 
+        - 학우 모두가 보다 클린한 캠퍼스를 다닐 수 있도록, 환경을 조성하는 것을 우리 학생회의 한 해 목표로 설정함.
+
+        <br>
+
+        <h6>📌 방법모색</h6>
+        - 광운대학교에는 총학생회에서 모든 학우들의 복지를 위한 사업을 진행할 수 있는 **‘복지기금’** 이 존재함. 기존 복지기금은, 대부분 간식사업과 같은 이벤트성 사업에 지출해 왔음. 이 기금의 일부를 학생들이 필요로 하는 시설을 제공하기 위해 사용해보고자 함.
+        - **흡연 구역 이외에서의 흡연을 방지**하는 것이 제일 간단하면서도 시급하고, 효과적인 방법이라 판단하고 이를 위한 사업을 구상함. - **흡연구역 분리사업**
+        - 학우들이 드나드는 건물 입구의 바로 옆에 위치한 흡연구역이 꽁초로 인한 문제가 제일 시급했음. **스스로 이 곳에는 버리지 않게 유도**할 방법을 모색함. - **흡연구역 조경사업**
+
+        <br>
+
+        <h6>📌 흡연구역 분리사업</h6>
+        **1. 방법 모색 및 기획**
+        - 아스팔트 띠 & 스탬프 이용
+        - 표지판 & 팻말 설치
+        <br>
+        <img src="..\assets\img\projects\smoking_3.png" width="45%">
+        <img src="..\assets\img\projects\smoking_4.png" width="45%">
+        <br>
+        **2. 내부견적**
+        <br>
+        <center><img src="..\assets\img\projects\smoking_5.png"></center>
+        <br>
+        **3. 진행과정**
+        - 학교 시설팀 & 복지처와의 협의를 통해 사업승인
+        - 아스팔트 스탬프 디자인 제작 - 장수정
+        - 비용 견적
+
+
+
+
 
