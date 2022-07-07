@@ -12,15 +12,16 @@ page_data:
     back_color: "lightblue"
 
   # 카테고리 분류
+  # 이 순서대로 나옵니다.
   category:
     - title: "개인프로젝트"
       type: id_project
       color: "#4374D9"
-    - title: "학생회"
-      type: id_school
-      color: "#4374D9"
     - title: "업무능력"
       type: id_work
+      color: "#4374D9"
+    - title: "학생회"
+      type: id_school
       color: "#4374D9"
 
 # iguessso project
@@ -230,8 +231,283 @@ page_data:
         - 학교 시설팀 & 복지처와의 협의를 통해 사업승인
         - 아스팔트 스탬프 디자인 제작 - 장수정
         - 비용 견적
+        <center><img src="..\assets\img\projects\smoking_6.png"></center>
+        <center><img src="..\assets\img\projects\smoking_7.png"></center>
+        <br>
+        **4. 결과**
+        <br>
+        <img src="..\assets\img\projects\smoking_8.png" width="45%">
+        <img src="..\assets\img\projects\smoking_9.png" width="45%">
+        <img src="..\assets\img\projects\smoking_10.png" width="45%">
+        <img src="..\assets\img\projects\smoking_11.png" width="45%">
+        <img src="..\assets\img\projects\smoking_12.png" width="45%">
+        <img src="..\assets\img\projects\smoking_13.png" width="45%">
+        <br>
+        본인이 제작한 위 디자인은 **지금까지도 사용중**. 
+        <br> 임기 이후, 새로운 곳에도 위 스탬프가 생긴것을 확인하였음.
+        <br>
+        <br>
+        <h6>📌 흡연구역 조경사업</h6>
+        **1. 방법 모색 및 기획 / 2. 내부견적**
+        <br>
+        <img src="..\assets\img\projects\smoking_14.png" width="45%">
+        <img src="..\assets\img\projects\smoking_15.png" width="45%">
+        <br>
+        <br>
+        **3. 진행과정**
+        <br>
+        - 학교 시설팀 & 복지처와의 협의를 통해 사업승인
+        - 시공업체와의 협의
+        <br>
+        <img src="..\assets\img\projects\smoking_16.png" width="45%">
+        <img src="..\assets\img\projects\smoking_17.png" width="45%">
+        <br>
+        - 비용견적
+        <img src="..\assets\img\projects\smoking_18.png">
+        <br>
+        <br>
+        **4. 결과**
+        <br>
+        <img src="..\assets\img\projects\smoking_19.png" width="45%">
+        <img src="..\assets\img\projects\smoking_20.png" width="45%">
+        <img src="..\assets\img\projects\smoking_21.png" width="45%">
+        <img src="..\assets\img\projects\smoking_22.png" width="45%">
+        <img src="..\assets\img\projects\smoking_23.png" width="45%">
+        <img src="..\assets\img\projects\smoking_24.png" width="45%">
+        <br>
 
+      # 제1회 국제통상학부 외국인유학생 프로그램 개최
+    - type: id_school
+      project_name: "제1회 국제통상학부 외국인유학생 프로그램"
+      project_excerpt: "광운대학교 국제통상학부 최초, 외국인유학생 프로그램 [걸어서 통상속으로] 기획 & 개최"
+      img: ":foreign.png"
+      img_title: "foreign.png"
+      date: "2019-03"
+      post: |
+        <h6>📌 요약</h6>
+        국제통상학부의 특징 중 하나는, 외국인 유학생이 많다는 것이다.
+        하지만, 한국인 학생들과 외국인 학생들의 교류의 장이 없었다.
+        이에, 선거 공약 1순위로 외국인 유학생과의 교류 프로그램을 기획 및 진행하였다.
+        1회를 성공적으로 끝낸 후 타과에서 협업을 제안받은 후 2회는 경영대학 차원 으로 넓혀서 진행을 하였다.
+        <br>
+        <br>
+        <h6>📌 기획배경</h6>
+        <img src="..\assets\img\projects\foreign_1.png" width="45%">
+        <img src="..\assets\img\projects\foreign_2.png" width="45%">
+        - 기존, 다양한 국적의 학생이 많은 장점을 살릴 수 있는 교류의 장이 전혀 없었음.
+        - 통상학부 내의 외국인 유학생과 한국인 학생들 간에 원활한 교류기회를 제공.
+        - 통상학부 외국인 유학생의 교내생활 적응에 도움을 제공하는 플랫폼 구축.
+        <br>
+        <br>
+        <h6>📌 행사 사전준비</h6>
+        <img src="..\assets\img\projects\foreign_3.png" width="45%">
+        <img src="..\assets\img\projects\foreign_4.png" width="45%">
+        <img src="..\assets\img\projects\foreign_5.png">
+        <br>
+        <br>
+        <h6>📌 행사진행</h6>
+        <img src="..\assets\img\projects\foreign_6.jpeg">
+        <img src="..\assets\img\projects\foreign_7.jpg" width="45%">
+        <img src="..\assets\img\projects\foreign_8.jpg" width="45%">
+        <img src="..\assets\img\projects\foreign_9.jpg" width="45%">
+        <img src="..\assets\img\projects\foreign_10.jpg" width="45%">
+        <img src="..\assets\img\projects\foreign_11.jpg" width="45%">
+        <img src="..\assets\img\projects\foreign_12.jpg" width="45%">
+        <br>
+        <br>
+        <h6>📌 행사후</h6>
+        1. 대학 내 행사중 우수사례로 인정받아, 모든 과에 기획안 및 사업결과를 공유함.
+        2. 타과에서 연합행사 제의가 들어왔고, 그 후에 함께 진행하였음.
+        3. 기존, 한국어가 서툴러 수업에 어려움을 겪던 유학생들이, 한국학생들과 친해짐으로써 모르는 것이 생기면 편하게 질문할 수 있게 되어, **참여한 유학생들의 학업성취 효율이 향상**되었음.
+        <br>
+        <br>
+        - 만족도 조사
+        <br>
+        <img src="..\assets\img\projects\foreign_13.png">
+        <img src="..\assets\img\projects\foreign_14.jpeg">
+        <br>
+        <br>
+        - 결과보고서
+        <br>
+        <img src="..\assets\img\projects\foreign_15.png" width="45%">
+        <img src="..\assets\img\projects\foreign_16.png" width="45%">
+        <br>
+        <br>
+        - 예산 결과 보고서
+        <br>
+        <img src="..\assets\img\projects\foreign_17.png" width="45%">
+        <img src="..\assets\img\projects\foreign_18.png" width="45%">
 
+      # IT계열 인성 역량검사 & 업무성향 검사
+    - type: id_work
+      project_name: "IT계열 인성 역량검사 & 업무성향 검사"
+      project_excerpt: "IT계열 인성 역량검사 & 업무성향 검사 결과"
+      img: ":ittest.png"
+      img_title: "it_test.png"
+      date: "2022-02"
+      post: |
+        <h6>📌 IT 계열 인성역량검사</h6>
+        <br>
+        <img src="..\assets\img\projects\ittest_1.png">
+        <br>
+        <br>
+        <h6>📌 잡플래닛 업무성향 검사</h6>
+        <img src="..\assets\img\projects\ittest_2.png">
+        <img src="..\assets\img\projects\ittest_3.png">
+        <img src="..\assets\img\projects\ittest_4.png">
+        <img src="..\assets\img\projects\ittest_5.png">
 
+      # 시각 홍보물 제작
+    - type: id_work
+      project_name: "시각 홍보물 제작"
+      project_excerpt: "경영대학 학생회의 모든 행사 진행을 위한 홍보방법을 선정하고, 홍보물을 제작하였다.  또한 sns 관리 및 디자인도 담당하였다."
+      img: ":promotion_1.jpg"
+      img_title: "promotion.jpg"
+      date: "all"
+      post: |
+        <h6>📌 인문사회과학대학과 연합 행사 홍보물</h6>
+        <center><img src="..\assets\img\projects\promotion_1.jpg"></center>
+        <br>
+        <center><img src="..\assets\img\projects\promotion_2.jpg"></center>
+        <br>
+        <center><img src="..\assets\img\projects\promotion_3.jpg"></center>
+        <br>
+        <br>
+        <h6>📌 야식행사 홍보물</h6>
+        <center><img src="..\assets\img\projects\promotion_4.jpg"></center>
+        <br>
+        <h6>📌 대여사업 안내물</h6>
+        <center><img src="..\assets\img\projects\promotion_5.jpg"></center>
+        <br>
+        <h6>📌 Self-Leadership camp</h6>
+        : 홍보부원 제작물 수정 - 사람제외 본인 제작
+        <center><img src="..\assets\img\projects\promotion_6.jpg"></center>
+        <br>
+        <h6>📌 새로배움터</h6>
+        <center><img src="..\assets\img\projects\promotion_7.jpg"></center>
+        <br>
+        <center><img src="..\assets\img\projects\promotion_8.jpg"></center>
+        <br>
+        <center> <img src="..\assets\img\projects\promotion_9.jpg"></center>
+        <br>
+        <center><img src="..\assets\img\projects\promotion_10.jpg"></center>
+        <br>
+        <h6>📌 연합엠티 포스터</h6>
+        <center><img src="..\assets\img\projects\promotion_11.gif"></center>
+        <br>
+        <h6>📌 SNS 배경 (Facebook) </h6>
+        <center><img src="..\assets\img\projects\promotion_12.jpg"></center>
+        <br>
+        <center><img src="..\assets\img\projects\promotion_13.gif"></center>
+        <br>
+        <h6>📌 전국 e-스포츠시설 동호인 대회 </h6>
+        <center><img src="..\assets\img\projects\promotion_14.png"></center>
+        <br>
+        <h6>📌 OZ라운지 PC방 배달 로고, 메뉴판 제작 </h6>
+        <center><img src="..\assets\img\projects\promotion_15.png"></center>
+        <br>
+        <center><img src="..\assets\img\projects\promotion_16.png"></center>
+        <br>
+        <h6>📌 [여기모여] 호프집 로고, 메뉴판 제작 </h6>
+        <center><img src="..\assets\img\projects\promotion_17.png"></center>
+        <br>
+        <center><img src="..\assets\img\projects\promotion_18.png"></center>
+        <br>
+        <center><img src="..\assets\img\projects\promotion_19.png"></center>
 
+      # 문서작업 경험
+    - type: id_work
+      project_name: "문서작업 경험 (설계서포함)"
+      project_excerpt: "회의록을 정리하여 보다 효율적이고 정확한 업무처리를 해야한다. 또한 학우들에게 회의 내용을 보기쉽게 깔끔히 공개해야할 의무가 있다. 따라서, 이에 맞는 양식들을 제작하고 배포하였다."
+      img: ":document_1.png"
+      img_title: "document.jpg"
+      date: "all"
+      post: |
+        <h6>📌 프로젝트 PPT / Excel 설계서 </h6>  
+        - 소고기 등급 판정 프로그램 ppt 양식 제작  
+        <br>
+        <img src="..\assets\img\projects\document_7.png" width="45%">
+        <img src="..\assets\img\projects\document_8.png" width="45%">
+        <br>
+        <img src="..\assets\img\projects\document_9.png" width="45%">
+        <img src="..\assets\img\projects\document_10.png" width="45%">
+        <br>
+        <img src="..\assets\img\projects\document_11.png" width="45%">
+        <img src="..\assets\img\projects\document_12.png" width="45%">
+        <br>
+        <img src="..\assets\img\projects\document_13.png" width="45%">
+        <img src="..\assets\img\projects\document_14.png" width="45%">
+        <br>
+        <br>
+        - Excel 설계서 - 요구사항 정의서
+        <center><img src="..\assets\img\projects\document_15.png"></center>
+        <br>
+        <br>
+        - ppt 설계서 - 화면설계서
+        <center><img src="..\assets\img\projects\document_16.png"></center>
+        <br>
+        <center><img src="..\assets\img\projects\document_17.png"></center>
+        <br>
+        <center><img src="..\assets\img\projects\document_18.png"></center>
+        <br>
+        <br>
+        <h6>📌 학생회</h6>
+        - 경영대학 학생회 운영회의 속기록 / 회의록 양식제작
+        <br>
+        <img src="..\assets\img\projects\document_1.png" width="45%">
+        <img src="..\assets\img\projects\document_2.png" width="45%">
+        <br>
+        - 경영대학 운영위원회 회의 속기록 / 회의록 양식 제작
+        <br>
+        <img src="..\assets\img\projects\document_3.png" width="45%">
+        <img src="..\assets\img\projects\document_4.png" width="45%">
+        <br>
+        - 각 회의 안건지 양식 (예시첨부)
+        <br>
+        <img src="..\assets\img\projects\document_5.png" width="45%">
+        <img src="..\assets\img\projects\document_6.png" width="45%">
+        <br>
+        <br>
+
+      # 영업관련 업무능력 & SNS 마케팅
+    - type: id_work
+      project_name: "영업관련 업무능력 & SNS 마케팅"
+      project_excerpt: "타업종의 일을 하면서, 사용했던 업무스킬들을 정리했습니다."
+      img: ":marketing_1.png"
+      img_title: "marketing.jpg"
+      date: "all"
+      post: |
+        <h6>📌 업무내용</h6>
+        - 코로나로 인해 영업매출이 감소하여, 음식을 takeout 하고 배달의 민족과 계약하는 일을 했었습니다. 메뉴판 제작부터 메뉴개발, 포장을 어떻게 할지 연구 등의 일을 하였습니다.  
+        - SNS를 통하여 고객님들과 꾸준한 소통을 하였습니다.  
+        - 매장의 다양한 이벤트를 기획하고 진행 및 관리를 했습니다.  
+        - 전국 PC방 대회를 준비하여 진행했습니다.  
+        - PC 및 각종 시설 점검 및 간단한 수리를 했습니다.  
+        <br>
+        <br>
+        <h6>📌 Excel - 매장 관리 </h6>
+        <center><img src="..\assets\img\projects\marketing_1.png"></center>
+        <br>
+        <br>
+        <h6>📌 Facebook </h6>
+        <img src="..\assets\img\projects\marketing_2.png" width="45%">
+        <img src="..\assets\img\projects\marketing_3.png" width="45%">
+        <br>
+        <img src="..\assets\img\projects\marketing_4.png" width="45%">
+        <img src="..\assets\img\projects\marketing_5.png" width="45%">
+        <br>
+        <img src="..\assets\img\projects\marketing_6.png" width="45%">
+        <img src="..\assets\img\projects\marketing_7.png" width="45%">
+        <br>
+        <br>
+        <h6>📌 그 외 </h6>
+        - 배달의 민족 : 피슐랭 / 먹깨비 : 핑거돈까스 계약 및 관리   
+        - 배달 대행업체 선정 및 관리
+        <br>
+        <img src="..\assets\img\projects\marketing_8.png" width="45%">
+        <img src="..\assets\img\projects\marketing_9.png" width="45%">
+        <br>
+        <img src="..\assets\img\projects\marketing_10.png" width="45%">
+        <img src="..\assets\img\projects\marketing_11.png" width="45%">
+        <br>
 
