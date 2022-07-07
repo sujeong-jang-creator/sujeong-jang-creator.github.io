@@ -1,0 +1,12 @@
+---
+lng_pair: ability2
+title : 학력) 서울혜화여자 고등학교 입학
+author: "장수정"
+category: 학력사항
+tags: [학력]
+img: ":hyehwa.jfif"
+comments_disable: True
+date: 2013-03-01 00:00:00 +0900
+---
+
+- 2013.03 ~ 2016.02

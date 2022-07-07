@@ -480,7 +480,6 @@ function setAddress(name, host) {
 
 (function () {
   'use strict';
-
   $(function () {
     let home_heading = $(".home-heading");
 

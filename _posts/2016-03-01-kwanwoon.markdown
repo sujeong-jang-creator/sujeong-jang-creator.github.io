@@ -1,0 +1,12 @@
+---
+lng_pair: ability1
+title : 학력) 광운대학교 국제통상학부 한중통상학과 입학
+author: "장수정"
+category: 학력사항
+tags: [학력]
+img: ":kwangwoon.png"
+comments_disable: True
+date: 2016-03-01 00:00:00 +0900
+---
+
+- 2016.03 ~ 2022.07 졸업 확정
