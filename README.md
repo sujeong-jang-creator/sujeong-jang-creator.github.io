@@ -15,4 +15,4 @@ bundle exec jekyll serve
 
 
 # 글 작성 Tip!
-- Wiki를 참고해 주세요
+- <a href="https://github.com/sujeong-jang-creator/sujeong-jang-creator.github.io/wiki">Wiki</a>를 참고해 주세요
