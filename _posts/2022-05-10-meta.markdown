@@ -21,7 +21,7 @@ date: 2022-05-10 00:00:00 +0900
 
 - 사업명 : 2022년 뉴딜 일자리 민간기업 공모사업
     
-- 학습내용 :  C, JAVA, Frontend(html, css)
+- 학습내용 :  C, JAVA, Frontend(html, css), OpenGL, Unity 
 
 - repo : <a href="https://github.com/sujeong-jang-creator/Metaverse_class" target="_blank">수업repo</a>
 
