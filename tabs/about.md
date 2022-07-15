@@ -59,7 +59,9 @@ img: ":about.jpg"
     <tr>
       <th scope="row">AWS</th>
       <td class="text-center">중</td>
-      <td>서버 구축하여 웹앱 배포경험 있음.</td>
+      <td>EC2(Centos, Windows server 인스턴스 생성 및 연결)
+          데이터 베이스 생성 및 파이썬 연결
+    </td>
     </tr>
     <tr>
       <th scope="row">Adobe Illustration / Photoshop</th>
