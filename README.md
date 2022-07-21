@@ -6,6 +6,7 @@
 # 📌 로컬 빌드
 - Ruby를 설치해야 합니다.
 - <a href="https://www.ruby-lang.org/ko/documentation/installation/">공식 문서</a>를 참고하여 설치해 주세요.
+
 ```
 bundle exec jekyll serve
 ```
